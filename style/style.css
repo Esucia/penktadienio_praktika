@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+   
+    background-image: url("../image/fantasy-3317298_960_720.jpg");
+    background-size: 1500px 600px;
+    background-repeat: no-repeat;
+}
+.main {
+    background-color: whitesmoke;
+    height: 600px;
+    width: 1100x;
+    display: block;
+    margin: 20px 50px 0px 30px;
+    justify-content: center;
+    opacity: 0.5;
+    
+}
+div.child {
+    display: flex;
+    align-items: flex-start;
+
+
+}
+.child {
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+}
+.child_text {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    right: 76%;
+    text-align: center;
+}
+.child_text h1 {
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.child_text p {
+    text-align: center;
+    line-height: 1.5;
+    margin: 10px 10px;
+}
+.child1 {
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+.child1_text {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    right: 60%;
+}
+.child1_text h2 {
+    position: absolute;
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.child1_text p {
+    text-align: center;
+    line-height: 1.5;
+    margin: 60px 0 0 0;
+}
+
+.child2 {
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+}
+.child2_text {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    right: 40%;
+    text-align: center;
+}
+.child2_text h3 {
+    position: absolute;
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
+.child2_text p {
+    text-align: center;
+    line-height: 1.5;
+    margin: 60px 0 0 0;
+}
+
+.child3 {
+    background-color: grey;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 10%;
+    left: 70%;
+}
+.child3_text {
+    position: absolute;
+    top: 40%;
+    left: 70%;
+    right: 10%;
+}
+.child3_text h4 {
+    position: absolute;
+    text-align: left;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    top: 2%;
+}
+.child3_text p {
+    text-align: center;
+    line-height: 1.5;
+    margin: 60px 0 0 0;
+}
+img {
+    top: 10%;
+    left: 10%;
+    height: 200px;
+    display: flex;
+}
+
+
